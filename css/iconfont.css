@@ -3,21 +3,25 @@
     /* Project id 4208467 */
     /* Color fonts */
     src:
-        url('//at.alicdn.com/t/c/font_4208467_d7xfs6spmt8.woff2?t=1691861342702') format('woff2'),
-        url('//at.alicdn.com/t/c/font_4208467_d7xfs6spmt8.woff?t=1691861342702') format('woff'),
-        url('//at.alicdn.com/t/c/font_4208467_d7xfs6spmt8.ttf?t=1691861342702') format('truetype');
+        url('//at.alicdn.com/t/c/font_4208467_qeahh7tbgzg.woff2?t=1693120420095') format('woff2'),
+        url('//at.alicdn.com/t/c/font_4208467_qeahh7tbgzg.woff?t=1693120420095') format('woff'),
+        url('//at.alicdn.com/t/c/font_4208467_qeahh7tbgzg.ttf?t=1693120420095') format('truetype');
 }
 
 .iconfont {
     font-family: "iconfont" !important;
-    font-size: 24px;
+    font-size: 20px;
     font-style: normal;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
 }
 
-.icon-zhihu:before {
-    content: "\e635";
+.icon-telegram:before {
+    content: "\e63d";
+}
+
+.icon-zhihu1:before {
+    content: "\e6f7";
 }
 
 .icon-Twitter:before {
